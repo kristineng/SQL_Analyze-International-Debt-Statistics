@@ -24,7 +24,7 @@ The data is structured inside a single table named `international_debt`:
 | `indicator_code` | VARCHAR | Unique code representing the type of debt |
 | `debt` | NUMERIC | Total debt amount in USD |
 
-## 🚀 Key Queries Executed
+## Key Queries Executed
 The project answers specific economic questions through SQL optimization techniques including:
 * Advanced aggregations (`SUM`, `AVG`, `MAX`) to scale figures dynamically.
 * `DISTINCT` and `COUNT` operations to pinpoint global market participants.

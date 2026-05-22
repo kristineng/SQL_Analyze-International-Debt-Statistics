@@ -1,2 +1,1 @@
-# SQL_Analyze-International-Debt-Statistics
-SQL
+# SQL - Analyze International Debt Statistics

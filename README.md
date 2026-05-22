@@ -3,10 +3,10 @@
 An exploratory data analysis project utilizing SQL to analyze international debt data collected by The World Bank. The dataset tracks external debt (in USD) owed by developing countries across various financial indicators.
 
 ## Key Findings
-* **Total Global Debt:** Over 3.07 trillion USD is owed by the developing countries.
-* **Highest Debtor:** **China** holds the highest total amount of debt, exceeding 285.79 billion USD.
-* **Top Debt Category:** Long-term external debt principal repayments (`DT.AMT.DLXF.CD`) average the highest amount of debt across all indicators globally.
-* **Prevalence:** There are 6 primary debt categories that apply universally to every single developing nation in the dataset, highlighting shared global macroeconomic patterns.
+- Over 3.07 trillion USD is owed by the developing countries.
+- China holds the highest total amount of debt, exceeding 285.79 billion USD.
+- Long-term external debt principal repayments (`DT.AMT.DLXF.CD`) average the highest amount of debt across all indicators globally.
+- There are 6 primary debt categories that apply universally to every single developing nation in the dataset, highlighting shared global macroeconomic patterns.
 
 ## Skills
 * **Language:** SQL (PostgreSQL)
